@@ -3,7 +3,7 @@ Version:	41857
 Release:	2
 Summary:	Figures which fill up a whole page
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/phffullpagefigure
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/phffullpagefigure
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/phffullpagefigure.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/phffullpagefigure.doc.r%{version}.tar.xz
